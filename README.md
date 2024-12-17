@@ -5,4 +5,4 @@
 2.open terminal    <br>
 3. in terminal-  [ nodemon index.js ]  <br>
 4. open browser and search [localhost:8080/posts]  <br>
-thats it!!!
+<b>Thats it!!</b>
