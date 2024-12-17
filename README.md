@@ -6,9 +6,10 @@
 3. in terminal-  [ nodemon index.js ]  <br>
 4. open browser and search [localhost:8080/posts]  <br>
 <b>Thats it!!</b>
+
 <h2>Main Page</h2>
 
-![Screenshot (30)](https://github.com/user-attachments/assets/32e23e4d-8f5a-47bb-b345-e96a28f98ba)
+![Screenshot (30)](https://github.com/user-attachments/assets/5e6a4550-b25b-4964-9358-5d58e6b70216)
 
 <h2>Edit Page</h2>
 
